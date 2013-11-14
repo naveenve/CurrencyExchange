@@ -1,0 +1,6 @@
+C:\code\cx\CurrencyXchange\CurrencyXchange\bin\Newtonsoft.Json.xml
+C:\code\cx\CurrencyXchange\CurrencyXchange\bin\CurrencyXchange.dll
+C:\code\cx\CurrencyXchange\CurrencyXchange\bin\CurrencyXchange.pdb
+C:\code\cx\CurrencyXchange\CurrencyXchange\obj\Debug\CurrencyXchange.dll
+C:\code\cx\CurrencyXchange\CurrencyXchange\obj\Debug\CurrencyXchange.pdb
+C:\code\cx\CurrencyXchange\CurrencyXchange\obj\Debug\CurrencyXchange.csprojResolveAssemblyReference.cache
